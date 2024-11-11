@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikrawashdeh" alt="malikrawashdeh" /></a> </p>
 
-- 🔭 I’m currently working on **learning to build ML/AI pipelines and infra**
+- 🔭 I’m currently working on **Building a basic TCP implementation**
 
 - 🌱 I’m currently learning **ML/AI Infra Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/malikrawashdeh](https://github.com/malikrawashdeh)
-
-- 📝 I regularly write articles on [https://dev.to/malikrawashdeh](https://dev.to/malikrawashdeh)
 
 - ⚡ Fun fact **I like lifting metal and climbing rock**
 
