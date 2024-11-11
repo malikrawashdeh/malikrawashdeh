@@ -5,15 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikrawashdeh" alt="malikrawashdeh" /></a> </p>
 
-- 🌱 I’m currently learning **ML/AI Infra**
+- 🔭 I’m currently working on **learning to build ML/AI pipelines and infra**
+
+- 🌱 I’m currently learning **ML/AI Infra Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/malikrawashdeh](https://github.com/malikrawashdeh)
 
-- Interesting fact about me **I like lifting metal and climbing rock**
+- 📝 I regularly write articles on [https://dev.to/malikrawashdeh](https://dev.to/malikrawashdeh)
+
+- ⚡ Fun fact **I like lifting metal and climbing rock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/malikrawashdeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malikrawashdeh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malik-rawashdeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-rawashdeh" height="30" width="40" /></a>
+<a href="https://medium.com/@malikrawashdeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malikrawashdeh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
